@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>myntra.com</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+
+        
+        
+
+        
+
+
+        
+    </head>
+    <body>
+        <div class="main">
+            <div class ="header">
+                <div class="logo">
+                    <img src="images/myntra.jpeg " width="65" height="65"/>
+
+                </div>
+                <div class="one">
+                    <div class="jaipur">
+                        <a href="#" class="a1">all</a>
+                        <div class="dropp">
+                            <div class="bombay">
+                                <a href="#" class="a2">DRESS</a>
+                                <a href="#" class="a2">FOOTWEAR</a>
+                                <a href="#" class="a2">HANDBAGS</a>
+                                <a href="#" class="a2">SPORTWEAR</a>
+                                <a href="#" class="a2">TRENDY</a>
+                            </div>
+                        </div>
+                    </div>
+                     </div>
+                
+                <div class ="two">
+                    <div class="delhi">
+                        <a href="#" class="a3">men</a>
+                        <div class="droppp">
+                            <div class="chennai">
+                                <a href="#" class="a4">T-SHIRT</a>
+                                <a href="#" class="a4">PANTS</a>
+                                <a href="#" class="a4">SHOES</a>
+                                <a href="#" class="a4">JEANS</a>
+                                <a href="#" class="a4">SHIRT</a>
+                            </div>
+                        </div>
+                    </div>
+                     </div>
+                <div class="three">
+                    <div class="mp">
+                        <a href="#" class="a11">women</a>
+                        <div class="dro">
+                            <div class="uk">
+                                <a href="#" class="a22">SKIRTS</a>
+                                <a href="#" class="a22">JEANS</a>
+                                <a href="#" class="a22">MAKEUP</a>
+                                <a href="#" class="a22">ACCESSORIES</a>
+                                <a href="#" class="a22">TOPS</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="four">
+                    <div class="kerala">
+                        <a href="#" class="a111">kids</a>
+                        <div class="dr">
+                            <div class="ap">
+                                <a href="#" class="a222">TOYS</a>
+                                <a href="#" class="a222">PAJAMA</a>
+                                <a href="#" class="a222">GLOVES</a>
+                                <a href="#" class="a222">SHOES</a>
+                                <a href="#" class="a222">SETS</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+
+                
+                 <div class="five">
+                    <div class="jk">
+                        <a href="#" class="a1111">beauty</a>
+                        <div class="d">
+                            <div class="sq">
+                                <a href="#" class="a2222">LIPSTICKS</a>
+                                <a href="#" class="a2222">BLUSH</a>
+                                <a href="#" class="a2222">MASCARA</a>
+                                <a href="#" class="a2222">LIPGLOSS</a>
+                                <a href="#" class="a2222">CONCEALER</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+
+                    
+                  <div class="six">
+                    <div class="greece">
+                        <a href="#" class="a11111">home</a>
+                        <div class="r">
+                            <div class="sy">
+                                <a href="#" class="a22222">AROMA AND CANDELS</a>
+                                <a href="#" class="a22222">BEDSHEET</a>
+                                <a href="#" class="a22222">FOUNTAINS</a>
+                                <a href="#" class="a22222">CARPETS</a>
+                                <a href="#" class="a22222">LAMPS</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+
+                    
+                     <div class="seven">
+                        <div class="dublin">
+                        <a href="#" class="a111111">gen-z</a>
+                        <div class="rr">
+                            <div class="si">
+                                <a href="#" class="a222222">HEADSCARF</a>
+                                <a href="#" class="a222222">JERSEY</a>
+                                <a href="#" class="a222222">BAGGY JEANS</a>
+                                <a href="#" class="a222222">SWEARTSHIRT UNDER ₹999</a>
+                                <a href="#" class="a222222">ACCESSORIES UNDER ₹599</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                        
+                     
+
+                     
+                    
+
+
+
+                
+            
+            <div class="option">
+                
+                
+                
+        
+             <input list ="products" id="search" placeholder="search for products,brands and more">
+             <datalist id="products">
+
+            <option value="shoes">shoes</option>
+            <option value="menswear">menswear</option>
+            <option value="womenswear">womenswear</option>
+            <option value="kidswear">kidswear</option>
+            <option value="jewellery">jewellery</option>
+            </datalist>
+            <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+             
+    
+        <div class="option2">
+            <div class="profile">
+                <a href="#" class="a"> profile <i class="fa-regular fa-user"></i> 
+                </a>
+                
+                <div class="drop">
+                    <div class="seventeen">
+                        <div class="welcome"> Welcome</div>
+                        <div class="to"> to access account and manage orders</div>
+                    <button onclick="location.href='login.html'">LOGIN/SIGN-UP</button>
+                </div>
+            </div>
+            </div>
+
+        
+              <a href="wish.html"  class="b">wishlist
+                <i class="fa-regular fa-heart"></i>
+             </a>
+             <a href="bag.html"  class="c">bag
+                <i class="fa-solid fa-bag-shopping"></i>
+
+             </a>
+        </div>
+        
+
+            </div>
+
+            </div>
+        
+        
+        </div>
+        <div class="main1">
+            <div class= "first">FLAT ₹500 OFF
+            <div class ="second">on your first purchase via
+                <img src="images/logo.jpg" height="30"width="30"/>app 
+            </div>
+            </div>
+            
+            
+            
+        </div>
+        <div class="main2">
+            <div  class="row1">
+            <img class="img"src="images/bag.jpg" width="80%" height="400px"/>
+            <img class="img" src="Lady-s-Bags-Fashion-Shoulder-Bags-Women-Handbags-Ladies.webp.avif" width="70%" height="400px"/>
+            </div>
+            <div class="row2">
+
+            
+
+            <div class="third"> HANDBAGS</div>
+            <div class ="fourth"> min 60% OFF</div>
+            </div>
+            
+        </div>
+        <div class="page2"> LUXE GRAND REDUCTION DEALS
+        <div class="s">
+            <div class="c"> <img src="images/c.jpeg " height="200px" width="200px"/> </div>
+            <div class="c"><img src="images/ka.jpeg" height="200px" width="200px"/> </div>
+            <div class="c"> <img src="images/ysl.jpeg" height="200px" width="200px"/> </div>
+            <div class="c"> <img src="images/k.jpeg" height="200px" width="200px"/> </div>
+            <div class="c"> <img src="images/lv.jpg"height="200px" width="200px"/> </div>
+             <div class="c"> <img src="images/h.jpeg" height="200px" width="200px"/> </div>
+            
+
+        
+
+        </div>
+        <div class="d">
+            <div class="g"> 
+         <div class="e">FLAT 50% OFF</div>
+          <div class="e">UPTO 30% OFF</div>
+           <div class="e">FLAT 20% OFF</div>
+            <div class="e">Buy 1 Get 1 Free</div>
+            <div class="e">UPTO 10% OFF</div>
+            <div class="e">UPTO 10% OFF</div>
+           
+        </div>
+        </div>
+
+        </div>
+         <div class="page3">WINTER WEAR
+         <div class="z">
+            <div class="w"> <img src=" h-and-m-puffer.jpg" height="200px" width="200px"/> </div>
+            <div class="w"><img src="images.jpeg" height="200px" width="200px"/> </div>
+            <div class="w"> <img src="Unknown.jpeg" height="200px" width="200px"/> </div>
+            <div class="w"> <img src="h.jpg" height="200px" width="200px"/> </div>
+            <div class="w"> <img src=" Unknown-1.jpeg"height="200px" width="200px"/> </div>
+             <div class="w"> <img src=" images-1.jpeg" height="200px" width="200px"/> </div>
+            
+
+         </div>
+         <div class="dd">
+            <div class="gg"> 
+         <div class="ee">JACKET</div>
+          <div class="ee">LEATHER JACKET</div>
+           <div class="ee">OVERCOAT</div>
+            <div class="ee">HOODIES</div>
+            <div class="ee">CARDIGAN</div>
+            <div class="ee">SWEATER</div>
+           
+        </div>
+
+    </div>
+    <div class="page4"> SHOP BY CATEGORIES
+        <div class="jan">
+            <div class="feb"> <img src="images-3.jpeg " height="200px" width="200px"/> </div>
+             <div class="feb"> <img src="Unknown-3.jpeg" height="200px" width="200px"/> </div>
+             <div class="feb"> <img src="images-5.jpeg" height="200px" width="200px"/> </div>
+             <div class="feb"> <img src="images-6.jpeg" height="200px" width="200px"/> </div>
+             <div class="feb"> <img src="9e22d6f754952a953e597094c7213bb5.jpg" height="200px" width="200px"/> </div>
+             <div class="feb"> <img src="f579e7dc776b0fd057e7bf42d4caa325.jpg" height="200px" width="200px"/> </div>
+                
+                
+            
+
+        </div>
+        <div class="march">
+            <div class ="april">
+        <div class="may">ETHNIC WEAR</div>
+          <div class="may">CASUAL WEAR</div>
+           <div class="may">FORMAL WEAR</div>
+            <div class="may">DRESSES</div>
+            <div class="may">SLEEP WEAR</div>
+            <div class="may">SKIRTS</div>
+           
+        
+
+            </div>
+        </div>
+        <div class="june">
+             <div class="july"> <img src="images-7.jpeg " height="200px" width="200px"/> </div>
+             <div class="july"> <img src="Unknown-1 copy.jpeg " height="200px" width="200px"/> </div>
+             <div class="july"> <img src="6eb9829c77ca865fecad2cdf3e51f46a.jpg " height="200px" width="200px"/> </div>
+             <div class="july"> <img src="5dce55c43873d0e8aeea8fb9f14541a3.jpg " height="200px" width="200px"/> </div>
+             <div class="july"> <img src=" 7fdc649a69cd844abbf797218686b769.jpg" height="200px" width="200px"/> </div>
+             <div class="july"> <img src=" Unknown copy 3.jpeg" height="200px" width="200px"/> </div>
+                
+
+        </div>
+        <div class="august">
+            <div class ="sept">
+        <div class="oct">EYE WEAR</div>
+          <div class="oct">HOME DECOR</div>
+           <div class="oct">HEELS</div>
+            <div class="oct">SHOES</div>
+            <div class="oct">HANDBAGS</div>
+            <div class="oct">SUITCASES</div>
+           
+        
+
+            </div>
+        </div>
+
+    </div>
+    <div class="page5"> Myntra-online shopping store
+        <div class="nov">
+            <div class="extra">
+            <div class="dec"> Tell your online shopping experience</div>
+            <div class="dec"> Email us at myntra@gmail.com</div>
+            <div class="dec"> please contact us on 1223456xxxx</div>
+            </div>
+            
+             
+                <div class="year">
+                
+                
+            <div class="end"><img src="Unknown.png"height="50px"width="100px"/></div>
+                 <div class="end"><img src="en_badge_web_generic.png"height="50px"width="100px"/></div>
+                 </div>
+                 
+                 
+                 
+
+        </div>
+        </div>
+
+                
+
+                
+            
+        
+
+    
+
+
+    </body>
+</html>
